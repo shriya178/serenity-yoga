@@ -12,10 +12,7 @@ Fully responsive (mobile, tablet, desktop)
 Video Explanation
 
 ## Project Walkthrough
-
-Watch the full project walkthrough here:
-🎥 [Click here to watch the video](https://drive.google.com/file/d/1X6wsOnslcIQLygKDuwcbOke3htcq2yZG/view?usp=sharing)
-
+🎥 [Click here to watch the video](https://drive.google.com/file/d/1TdV5SOxrkxaTdYLT8xc9m83ZXrWyWezp/view?usp=sharing)
 Tech Stack
 Tool	Use
 React	UI components
@@ -122,4 +119,4 @@ The Contact and Newsletter forms are for display only and do not send data yet.
 Dropdown menus open on hover, so they work on desktop only.
 Author
 
-Made by your name here.
+Made by Shriya Patel.
