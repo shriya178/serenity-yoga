@@ -14,9 +14,7 @@ Video Explanation
 ## Project Walkthrough
 
 Watch the full project walkthrough here:
-
-🎥 [Click here to watch the video](https://drive.google.com/file/d/1TdV5SOxrkxaTdYLT8xc9m83ZXrWyWezp/view?usp=sharing)
-
+🎥 [Click here to watch the video](https://drive.google.com/file/d/1X6wsOnslcIQLygKDuwcbOke3htcq2yZG/view?usp=sharing)
 
 Tech Stack
 Tool	Use
